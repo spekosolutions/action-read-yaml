@@ -1,7 +1,7 @@
 {
-  "name": "multi_read_yaml",
+  "name": "multi_yaml_read",
   "version": "1.0.0",
-  "description": "Github action to read YAML file",
+  "description": "Github action to read YAML files",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

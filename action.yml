@@ -1,5 +1,5 @@
-name: "YAML Read"
-description: "This action reads a YAML configuration files, with support to variable interpolation"
+name: "Multi YAML Read"
+description: "This action reads YAML configuration files, with support to variable interpolation"
 author: "spekosolutions"
 branding:
   icon: box
@@ -19,4 +19,4 @@ inputs:
     default: ""
 runs:
   using: "node20"
-  main: "multi_read_yaml/index.js"
+  main: "multi_yaml_read/index.js"
